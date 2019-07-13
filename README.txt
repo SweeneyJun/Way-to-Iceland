@@ -24,6 +24,7 @@ Credits:
 
 	Icons:
 		Font Awesome (fontawesome.io)
+		IconFont(https://www.iconfont.cn/)
 
 	Other:
 		jQuery (jquery.com)
